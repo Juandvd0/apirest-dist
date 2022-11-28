@@ -1,0 +1,14 @@
+{
+    "master":[{
+        "name":"Jhose"
+    }
+],
+    "nodo1":[{
+        "name":"Juan" 
+
+    }],
+    "nodo2":[{
+        "name":"Farid" 
+    }
+    ]
+}
